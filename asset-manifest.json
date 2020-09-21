@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Login-with-MERN/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Login-with-MERN/static/js/main.87b06db6.chunk.js",
+    "main.js.map": "/Login-with-MERN/static/js/main.87b06db6.chunk.js.map",
+    "runtime-main.js": "/Login-with-MERN/static/js/runtime-main.f34c7218.js",
+    "runtime-main.js.map": "/Login-with-MERN/static/js/runtime-main.f34c7218.js.map",
+    "static/js/2.365bb937.chunk.js": "/Login-with-MERN/static/js/2.365bb937.chunk.js",
+    "static/js/2.365bb937.chunk.js.map": "/Login-with-MERN/static/js/2.365bb937.chunk.js.map",
+    "index.html": "/Login-with-MERN/index.html",
+    "precache-manifest.68e17fbb6655b97fa8ba3e39f7667358.js": "/Login-with-MERN/precache-manifest.68e17fbb6655b97fa8ba3e39f7667358.js",
+    "service-worker.js": "/Login-with-MERN/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Login-with-MERN/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.365bb937.chunk.js.LICENSE.txt": "/Login-with-MERN/static/js/2.365bb937.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f34c7218.js",
+    "static/js/2.365bb937.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.87b06db6.chunk.js"
+  ]
+}
